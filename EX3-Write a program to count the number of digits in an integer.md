@@ -17,7 +17,7 @@ Developed by: JAYAKUMAR B
 RegisterNumber: 212223040073
 ```
 
-```py
+```java
 import java.util.Scanner;
 
 public class CountDigits {
