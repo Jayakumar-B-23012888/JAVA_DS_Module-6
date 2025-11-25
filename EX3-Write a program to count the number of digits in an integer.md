@@ -13,11 +13,11 @@ To write a C program to implement Tower of Hanoi
 
 ## Program:
 ```
-Developed by: GANESH D
-RegisterNumber: 212223240035
+Developed by: JAYAKUMAR B
+RegisterNumber: 212223040073
 ```
 
-```
+```py
 import java.util.Scanner;
 
 public class CountDigits {
